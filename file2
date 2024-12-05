@@ -1,0 +1,11 @@
+create file1 in project-git
+edit the file1
+git add file1
+git commit -y "commit message"
+git push origin main
+git log 
+git log --oneline
+
+git status 
+from edit 
+to git log

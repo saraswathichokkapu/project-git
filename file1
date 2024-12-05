@@ -4,7 +4,9 @@ genereted key entered in central repository
 create a projet-git repository in central repository
 create a directory in local repository
 as gitrepose
-under gitrepose git init
+
+
+git init
 git remote add origin and paste the ssh link
 git clone and paste the ssh link
 finall projet-git in local repository
